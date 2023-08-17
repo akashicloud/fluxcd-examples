@@ -1,0 +1,4 @@
+apiVersion: v2
+name: fluxcd-examples-helm-app
+description: A Helm chart for Fluxcd Example Helm App
+version: 0.0.3
